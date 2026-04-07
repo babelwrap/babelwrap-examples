@@ -35,7 +35,7 @@ The script opens [books.toscrape.com](https://books.toscrape.com) in a BabelWrap
 
 ```bash
 # Clone the repo and enter this example
-git clone https://github.com/anthropomorphic-ai/babelwrap-examples.git
+git clone https://github.com/babelwrap/babelwrap-examples.git
 cd babelwrap-examples/01-hello-babelwrap
 
 # Install dependencies
